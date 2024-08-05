@@ -24,7 +24,7 @@ const FooterThree = () => {
     } = useForm();
     const onSubmit = (data, e) => {
         setLoading(true);
-        emailjs.sendForm('service_p6xyx8c', 'template_50go8lq', e.target, 'user_a3mibtvU72r4yERjbA9dj')
+        emailjs.sendForm('service_bk684vd', 'template_50go8lq', e.target, 'user_a3mibtvU72r4yERjbA9dj123')
             .then((result) => {
                 setLoading(false);
                 setSuccess(true);

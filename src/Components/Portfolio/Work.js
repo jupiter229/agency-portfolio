@@ -33,7 +33,7 @@ const Work = ({ works }) => {
                                         component="h5"
                                         sx={styles.WorkTitle}
                                     >
-                                        {work.name}
+                                        {/* {work.name} */}
                                     </Typography>
                                 </a>
                             </Link>

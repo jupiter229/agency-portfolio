@@ -1,5 +1,5 @@
 {
-  "name": "codestation-portfolio",
+  "name": "techbridge21-portfolio",
   "private": true,
   "scripts": {
     "dev": "next dev",

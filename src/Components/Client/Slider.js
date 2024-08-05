@@ -40,11 +40,11 @@ const Sliders = () => {
                         {Clients &&
                             Clients.map((client, i) => (
                                 <Box className="embla__slide" sx={styles.EmblaSlide} key={i}>
-                                    <Avatar
+                                    {/* <Avatar
                                         alt={client.name}
                                         src={client.avatar}
                                         sx={styles.Avatar}
-                                    />
+                                    /> */}
                                     <Box sx={{ mt: "4.5em", mb: "3em" }}>
                                         <Typography variant="h6" component="h6" sx={styles.Title}>
                                             {client.title}

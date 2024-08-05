@@ -24,7 +24,7 @@ const FooterOne = () => {
                 </Box>
                 <Box>
                     <Typography variant="body1" component="p">
-                        171/5, Borhanpur Lane, 6 Hazaribagh Road, Dhaka 1211
+                        25-179,2QU,TIEFAYOUSE,GUANGYU St.,YINZOU,TIELING
                     </Typography>
                 </Box>
             </Stack>
@@ -33,10 +33,10 @@ const FooterOne = () => {
                     <EmailIcon />
                 </Box>
                 <Box>
-                    <Link href="mailto:info@codestation21.com">
+                    <Link href="mailto:grande_ourse@outlook.com">
                         <a>
                             <Typography variant="body1" component="p">
-                                info@codestation21.com
+                                grande_ourse@outlook.com
                             </Typography>
                         </a>
                     </Link>
@@ -50,42 +50,42 @@ const FooterOne = () => {
                     <Link href="tel:+8801552938771">
                         <a>
                             <Typography variant="body1" component="p">
-                                +880 1552-938771
+                                +86 15694102267
                             </Typography>
                         </a>
                     </Link>
                 </Box>
             </Stack>
-            <Stack direction="row" sx={styles.Social}>
-                <Link href="https://github.com/codestation21">
+            {/* <Stack direction="row" sx={styles.Social}>
+                <Link href="https://github.com/techbridge21">
                     <a target="_blank">
                         <ButtonBase>
                             <GitHubIcon />
                         </ButtonBase>
                     </a>
                 </Link>
-                <Link href="https://www.facebook.com/codestation21">
+                <Link href="https://www.facebook.com/techbridge21">
                     <a target="_blank">
                         <ButtonBase>
                             <FacebookIcon />
                         </ButtonBase>
                     </a>
                 </Link>
-                <Link href="https://twitter.com/codestation21">
+                <Link href="https://twitter.com/techbridge21">
                     <a target="_blank">
                         <ButtonBase>
                             <TwitterIcon />
                         </ButtonBase>
                     </a>
                 </Link>
-                <Link href="https://behance.com/codestation21">
+                <Link href="https://behance.com/techbridge21">
                     <a target="_blank">
                         <ButtonBase>
                             <BehaceIcon />
                         </ButtonBase>
                     </a>
                 </Link>
-            </Stack>
+            </Stack> */}
         </Box>
     );
 };

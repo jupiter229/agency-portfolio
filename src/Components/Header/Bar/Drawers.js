@@ -29,7 +29,7 @@ const Drawers = ({ toggleDrawer }) => {
                 </ButtonBase>
             </Stack>
             <Typography variant="body1" component="p" sx={styles.Description}>
-                We are codestation21, a group of people passionate about solving problems with the power of code. We have more than 4+ professional experience in different domains and clients. Our problem-solving skills help us to create a great product for you. We are always available to help your dream projects come true.
+                We are techbridge21, a group of people passionate about solving problems with the power of code. We have more than 4+ professional experience in different domains and clients. Our problem-solving skills help us to create a great product for you. We are always available to help your dream projects come true.
             </Typography>
             <Box sx={styles.Navs}>
                 {Navs &&
@@ -56,7 +56,7 @@ const Drawers = ({ toggleDrawer }) => {
                 </Box>
                 <Box>
                     <Typography variant="body1" component="p">
-                        171/5, Borhanpur Lane, 6 Hazaribagh Road, Dhaka 1211
+                        25-179,2QU,TIEFAYOUSE,GUANGYU St.,YINZOU,TIELING
                     </Typography>
                 </Box>
             </Stack>
@@ -65,10 +65,10 @@ const Drawers = ({ toggleDrawer }) => {
                     <EmailIcon />
                 </Box>
                 <Box>
-                    <Link href="mailto:info@codestation21.com">
+                    <Link href="mailto:grande_ourse@outlook.com">
                         <a>
                             <Typography variant="body1" component="p">
-                                info@codestation21.com
+                                grande_ourse@outlook.com
                             </Typography>
                         </a>
                     </Link>
@@ -82,13 +82,13 @@ const Drawers = ({ toggleDrawer }) => {
                     <Link href="tel:+8801552938771">
                         <a>
                             <Typography variant="body1" component="p">
-                                +880 1552-938771
+                                +86 15694102267
                             </Typography>
                         </a>
                     </Link>
                 </Box>
             </Stack>
-            <Stack direction="row" sx={styles.Social}>
+            {/* <Stack direction="row" sx={styles.Social}>
                 <Link href="https://github.com/codestation21">
                     <a target="_blank">
                         <ButtonBase>
@@ -117,7 +117,7 @@ const Drawers = ({ toggleDrawer }) => {
                         </ButtonBase>
                     </a>
                 </Link>
-            </Stack>
+            </Stack> */}
         </Box >
     );
 };

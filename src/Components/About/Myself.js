@@ -20,8 +20,8 @@ const Myself = () => {
                     Know Great About Us
                 </Typography>
                 <Typography variant="body1" component="p" className="sdjh" sx={styles.Description}>
-                    We are a group of professional software developer
-                    team that run by enthusiast for coding and design.
+                    We are a small remote group of professional software developer
+                    team based in China that run by enthusiast for coding and design.
                 </Typography>
                 <Box sx={{ my: "28px" }}>
                     <Stack direction="row" sx={styles.Features}>

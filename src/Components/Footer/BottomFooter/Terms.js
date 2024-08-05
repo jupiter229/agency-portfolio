@@ -26,10 +26,10 @@ const Terms = ({ handleClose }) => {
                                         <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
                                     </li>
                                     <li>
-                                        <p><strong>Country</strong> refers to: Bangladesh</p>
+                                        <p><strong>Country</strong> refers to: China</p>
                                     </li>
                                     <li>
-                                        <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Code Station21 LLC, 171/5, Borhanpur Lane, 6 Hazaribagh Road, Dhaka 1211.</p>
+                                        <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Tech Bridge 21 LLC, 25-179,2QU,TIEFAYOUSE,GUANGYU St.,YINZOU,TIELING.</p>
                                     </li>
                                     <li>
                                         <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
@@ -44,7 +44,7 @@ const Terms = ({ handleClose }) => {
                                         <p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
                                     </li>
                                     <li>
-                                        <p><strong>Website</strong> refers to Code Station21, accessible from <a href="codestation21.com" rel="external nofollow noopener" target="_blank">codestation21.com</a></p>
+                                        <p><strong>Website</strong> refers to Tech Bridge 21, accessible from <a href="codestation21.com" rel="external nofollow noopener" target="_blank">codestation21.com</a></p>
                                     </li>
                                     <li>
                                         <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>

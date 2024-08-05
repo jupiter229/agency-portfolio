@@ -14,7 +14,7 @@ const Contact = () => {
         <Container maxWidth={false} disableGutters as="section" sx={styles.Container} id="contact">
             <SectionHeading
                 value1="Do You Have Any Projects"
-                value2="Plz Say Hello"
+                value2="Please Say Hello"
                 border={true}
             />
             <Form />

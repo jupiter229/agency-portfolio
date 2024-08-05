@@ -14,7 +14,7 @@ const Logo = () => {
                 smooth={true}
                 duration={500}
             >
-                <Image src={Logos} width={200} height={30} alt="Logo" />
+                <Image src={Logos} width={200} height={45} alt="Logo" />
             </Link>
         </Box>
     );
