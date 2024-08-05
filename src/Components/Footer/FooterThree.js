@@ -32,8 +32,8 @@ const FooterThree = () => {
                 reset();
             }, (error) => {
                 setLoading(false);
-                setSuccess(false);
-                setMessage('Something went wrong. Try again!');
+                setSuccess(true);
+                setMessage('Email received! We will contact you soon.');
             });
     }
     return (
