@@ -20,8 +20,8 @@ const Work = ({ works }) => {
                                 sm: "unset"
                             }
                         }}>
-                            <Link href={work.url}>
-                                <a target="_blank">
+                            <Link href="#">
+                                <a href="">
                                     <Box sx={styles.ImageBox}>
                                         <Box component="img" src={work.image} />
                                         <Box className="css-mui-svg">
