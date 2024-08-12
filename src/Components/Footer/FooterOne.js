@@ -56,6 +56,23 @@ const FooterOne = () => {
                     </Link>
                 </Box>
             </Stack>
+            <Stack direction="row" sx={styles.Address}>
+                <Box>
+                    <MapIcon />
+                </Box>
+                <Box>
+                    <Typography variant="body1" component="p">
+                        
+                        <Link href="tel:+8801552938771">
+                        <a>
+                            <Typography variant="body1" component="p">
+                            LIWEN SHI (CTO)
+                            </Typography>
+                        </a>
+                    </Link>
+                    </Typography>
+                </Box>
+            </Stack>
             {/* <Stack direction="row" sx={styles.Social}>
                 <Link href="https://github.com/techbridge21">
                     <a target="_blank">

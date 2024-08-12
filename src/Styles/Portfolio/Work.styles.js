@@ -1,14 +1,21 @@
 const styles = {
     ImageContainer: {
         width: {
-            md: "350px",
+            md: "480px",
             smd: "280px",
             lsm: "250px",
             msm: "230px",
             sm: "190px",
             xxs: "100%"
         },
-        height: "auto",
+        height:  {
+            md: "398px",
+            smd: "280px",
+            lsm: "250px",
+            msm: "230px",
+            sm: "190px",
+            xxs: "100%"
+        },
         position: "relative",
         a: {
             textDecoration: "none",
@@ -25,7 +32,9 @@ const styles = {
         height: "100%",
         img: {
             transition: "all 1.2s cubic-bezier(0, 0, 0.2, 1)",
-            width: "100%"
+            width: "100%",
+            height: "100%",
+            objectFit: "cover"
         },
         "&:before": {
             content: "''",
@@ -97,6 +106,23 @@ const styles = {
         "&:hover": {
             color: "primary.main"
         }
+    },
+    ModalStyle: {
+        position: 'absolute',
+        top: '50%',
+        left: '50%',
+        transform: 'translate(-50%, -50%)',
+        width: 800,
+        bgcolor: 'background.paper',
+        border: '2px solid #000',
+        boxShadow: 24,
+        p: 4,
+        m: 4,
+        overflow: 'auto',
+        height: '80vh'
+    },
+    titleStyle: {
+        marginBottom: 2
     }
 };
 
